@@ -17,3 +17,4 @@ Express, Handlebars, MySQL
 
 Demo
 *npm and starting node server
+![!]https://github.com/msiller93/burger/blob/master/gifs/npm.gif
